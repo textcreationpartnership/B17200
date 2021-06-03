@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Thomas Martin &amp; al. appellants. against William Stephens respondent]... Bewick, Simon Brown, senr. Simon Brown, junr. Robt. Hills, Edward Ballard, Joseph Leach and Thomas Cottage. ... Vicar of Linton. Respondent. The appellants case.</title>
+            <author>Martin, Thomas, fl. 1696.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17200</idno><idno type="EEBO-CITATION">99886797</idno>
+  <idno type="VID">189453</idno>
+  <idno type="EEBO-PROQUEST">2264216971</idno>
+  
+            <idno type="STC">Wing A3569A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1888.c.11[29*]</idno>
+            <idno type="STC">ESTC R226612</idno>
+            <idno type="PROQUEST">ocm99886797</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886797e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17200)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189453)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C16:2[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[Thomas Martin &amp; al. appellants. against William Stephens respondent]... Bewick, Simon Brown, senr. Simon Brown, junr. Robt. Hills, Edward Ballard, Joseph Leach and Thomas Cottage. ... Vicar of Linton. Respondent. The appellants case.</title>
+                  <author>Martin, Thomas, fl. 1696.</author>
+                  <author>Stephens, William, fl. 1696.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: title page trimmed at head affecting title. First part of title supplied from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Martin, Thomas, fl. 1696 --  Early works to 1800.</term>
+               <term type="personal_name">Stephens, William, fl. 1696 --  Early works to 1800.</term>
+               <term type="topical_term">Estates (Law) --  England --  Early works to 1800.</term>
+               <term type="topical_term">Inheritance and succession --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="case">
+            <pb facs="tcp:189453:1"/>
+            <head>The Appellants Case.</head>
+            <head>
+               <list>
+                  <item>
+                     <gap reason="illegible" resp="#oxf" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <hi>Bewick, Simon Brown,</hi> Senr, <hi>Simon Brown,</hi> Junr. <hi>Robt. Hills, Edward Ballard, Joseph Leach</hi> and <hi>Thomas Cottage.</hi> Appellants.</item>
+                  <item>
+                     <gap reason="illegible" resp="#oxf" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Vicar of <hi>Linton.</hi> Respondent.</item>
+               </list>
+            </head>
+            <p>THat in the Year 1473. <hi>Thomas Green</hi> then Vicar of Great <hi>Linton</hi> in <hi>Cambridge-shire,</hi> complaining to the Master and Scholars of <hi>Pembrook</hi>-Hall in the University of <hi>Cambridge</hi> (who were seised of the Rectory) that the Mansion-House belonging to the Vicaridge was too remote from the Church; the said Master, Scholars and Vicar by Inden<g ref="char:EOLhyphen"/>tures, 18th of <hi>June</hi> 1473. for setling the right of the Vicar and establishing Peace between the said Parties; Did mutually agree, that the Master and Scholars, and their Successors should have the said Mansion-House, and the Vicar and his Successors should have another Messuage near the Church, and 10. Acres of arable Land in the Fields, and the Tithes of 40. A<g ref="char:EOLhyphen"/>cres of Corn, and 12 s. annual Rent, and other lesser Tithes usually Received by the Vicar for their whole Portion of all Corn and Grain whatsoever.</p>
+            <p>And should have the Tithes of <hi>Saffron</hi> of certain Lands therein mentioned, and 3 s. 4 d. <hi>per Annum,</hi> in lieu of all Tithes of <hi>Saffron;</hi> and should also have all Oblations, Personal Tithes, Mortuaries of Strangers, and all other small Tithes; <hi>viz.</hi> Of Wooll, Lambs, Milk, Calves, Flax, Hemp, Herbs, Fruits, Geese, Pigs, Wax and Honey. FOR his and their WHOLE AND IN<g ref="char:EOLhyphen"/>TIRE PORTION OF TITHES FOR EVER, NOTWITHSTANDING ANY OTHER THINGS THAT MIGHT AFTER HAPPEN, <hi>DE NOVO.</hi>
+            </p>
+            <p>That accordingly the Vicars ever since have enjoyed the Messuage near the Church, and the 10. Acres of Land, and the Tithes of 40. Acres, and other the Matters agreed on.</p>
+            <p>That about 60. Years ago <hi>Carrots</hi> and <hi>Turneps</hi> began to be sown in the Common Fields of <hi>Linton,</hi> but at first in so small quantities, that the Tithes were not regarded, and for some few Years the Vicar received the Tithes of them under the Noti<g ref="char:EOLhyphen"/>on of Small Tithes.</p>
+            <p>But afterwards when whole Fields were sown with them, and the Tithe became valuable; <hi>Curtis</hi> then Farmer of the Re<g ref="char:EOLhyphen"/>ctory, applying to the Colledge; it appeared upon Perusal of the said Indenture of Compositon, that these were not compre<g ref="char:EOLhyphen"/>hended in it, being a new kind of Tithes happening afterwards.</p>
+            <p>Whereupon he sued for the Tithes of <hi>Carrots</hi> and <hi>Turneps</hi> sown in the Common Fields, and ever since for above 20. Years last, the Colledge and their Farmers of the Rectory have enjoyed them, as also the Tithes of hasty Peas, which of late have been sown in the Common Fields in great Quantities.</p>
+            <p>That the Respondent sued the the Appellants by <hi>English</hi> Bill in the <hi>Exchequer,</hi> for the Tithes of the said <hi>Peas, Carrots</hi> and <hi>Turneps</hi> sown in the Common Fields of <hi>Linton</hi> in the Year, 1694.</p>
+            <p>And the said Court, hath adjudged the said Tithes to belong to the Vicar, and not to the Impropriator, and have Decreed the Appellants to Account and make Satisfaction for them to the Respondent.</p>
+            <p>Which Decree, the Appellants humbly Conceive, and are advised is Erronious.</p>
+            <p>For that it is quite contrary to the express Words, and intent of the Indenture of Composition, which was made to quiet all Claims and Questions, and ascertain and settle the Right and Pretences of the Vicar.</p>
+            <p>For by the Composition, the Vicar has a recompence given expresly in liev of all Tithes BLADORUM; which comprehends all Corn and Grain.</p>
+            <p>Also the small Tithes the Vicar was to have, are enumerated and he excluded from any new sort of Tithes that might happen after wards.</p>
+            <p>Object. 1. <hi>It was objected at the hearing (upon which the Decree seems to be founded) that these</hi> Peas <hi>are of the kind of Garden</hi> Peas <hi>or hasty</hi> Peas, <hi>which were usually set or sown in Gardens, and these are gathered Green, and managed with a Hoe as in Gardens; and</hi> Peas <hi>in Gardens pay Tithes to the Vicar, and therefore they ought to pay in Common Fields as a small Tithe.</hi>
+            </p>
+            <p>
+               <hi>Resp.</hi> That where <hi>Peas</hi> pay in Gardens, that's only by reason of the Place (Vicars having usually the Tithes of Gardens) But <hi>Peas</hi> in their Nature being great Tithes the gathering of them green, or their being by Cultivation produced earlier then was usual in Common Fields, does not make them small Tithes.</p>
+            <p>2. That the Hoe formerly used in Gardens, is now found to be a good piece of Husbandry, and used very much in Common Fields, not only for <hi>Peas,</hi> but other sorts of Grain, and that way of ordering them cannot make them small Tithes,</p>
+            <p>3. Several hundred Acres of the Common Fields, and inclosed Grounds in the Parish are thus sown with <hi>Peas, Carrots,</hi> and <hi>Turneps,</hi> and it being found very profitable; this way of Husbandry increases every Year, so that if the Vicar must have the Tithes, the whole Profits of the Parish will in time be his, and the Impropriation that was given towards Sustentation of the Colledge will dwindle to nothing, and yield them neither Fines nor Rent for these Lands, that formerly answered Tithes of great Value to the Impropriator, and never any thing to the Vicar, will by this course of Husbandry, and this Decree be quite lost to the Impropriator and transferred to the Vicar.</p>
+            <p>And this Judgment in the <hi>Exchequer</hi> may influence, and prejudice the most (if not all the) Impropriations in <hi>England.</hi>
+            </p>
+            <p>Object. 2. <hi>The Vicar was for sometime in Possession of these Tithes, and therefore a new Indowment of them may be intended.</hi>
+            </p>
+            <p>
+               <hi>Resp.</hi> An ancient and an uninterrupted Possession, where no Indowment appears to be to contrary, may be aided by such intendment: But that is not the present Case: For,</p>
+            <p>1. Here is an express indowment that excludes the Vicar.</p>
+            <p>2. Here the Subject Matter is not so ancient, as that any such Intendment can well be built upon it; this course of Husbandry being first introduced within these 60. Years.</p>
+            <p>3. Here's neither an uninterrupted nor a continued Possession, for at the first, one while the Vicar, another while the Farmer of the Impropriation received them as is proved.</p>
+            <p>And tho the Vicar received them for some few Years: Yet after the Farmer of the Impropriation had consulted the Colledge, and found these Tithes belonged to them, he claimed and sued for those Tithes and had them, and they have been ever since, for above 20, Years last enjoyed by the Colledge and their Farmers, so that the Possession has been with the Colledge as well as with the Vicar.</p>
+            <p>And it seems pretty hard to establish such a Question by a Decree, without calling in the Colledge, who have the Fee of the Impropriation.</p>
+            <p>Object. 3. <hi>Its a Poor Vicaridge.</hi>
+            </p>
+            <p>
+               <hi>Resp.</hi> The Respondent has been offered 40 <hi>l. per Annum</hi> for what he has without the Tithes in Question, and he may have that Rent when he will, but thinks it too little, and as to the Respondent, he cant plead Poverty, he holding another Benifice worth 100 <hi>l. per Annum.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <pb facs="tcp:189453:2"/>
+            <p>THE APPELLANTS CASE.</p>
+            <p>
+               <hi>Thomas Martin &amp;</hi> al. Appellants against <hi>William Stephens</hi> Respondent</p>
+            <p>To be heard upon <date>
+                  <hi>Wednesday</hi> the 17th. Day of <hi>February,</hi> 1696.</date>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
